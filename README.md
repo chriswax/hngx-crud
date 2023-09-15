@@ -1,4 +1,4 @@
-# simple-php-crud-api-hngx
+# simple-Laravel-crud-api
 Simple Rest API Capable of CRUD Operation on a resource e.g person using Laravel PHP/MYSQL
 
 
